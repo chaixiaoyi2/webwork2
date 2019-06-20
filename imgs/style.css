@@ -1,0 +1,13 @@
+/*
+* @Author: chaixiaoyi
+* @Date:   2019-06-15 19:54:14
+* @Last Modified by:   chaixiaoyi
+* @Last Modified time: 2019-06-15 20:10:50
+*/
+*{
+    padding: 0;
+    margin: 0;
+}
+ul,li,ol{
+    list-style:none;
+}
